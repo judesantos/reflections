@@ -1,0 +1,15 @@
+
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams help by visually creating a tree structure of branches and the chonoogical order of commits within each branch, and also helps identify parent branch.
+
+	With this, merging and pulling out code to create new versions, test out a new feature, incorporating new features are less confusing.
+
+What is the result of mergin two branches together? Why do we represent it in the diagram the way we do?
+
+	
+What are the pros and cons of Git's automatic vs. always doing merges manually.
+
+	Manual merge is good when the difference between 2 branches requires human decision to affect the final outcome. Automatic merge is good for simple merges, like 2 differing sections of code on the same file, or separate changes in code, or adding new files.
+
+	

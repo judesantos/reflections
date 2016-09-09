@@ -1,0 +1,35 @@
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	It saves me time from finding the source of a problem in a program.
+
+-- some text here 
+
+Why do you think some version control systems, like git, allow saving multiple files in one
+commit, while others, like google docs, treat each file separately
+
+
+How can you use the commands git log and git diff to view the history of files.
+
+How might using version control make you more confident to make changes that could break something?
+
+	It is easy to backtrack through commit history and isolate a period in time where a problem was first introduced.
+
+
+Now that you have your workspace setup, what do you want to try using Git for?
+
+	I have been using git for 5 years now. I use it mostly to store my codes with, may it be personal or private code.
+
+What happens when you initialize a repository? Why do you need to do it?
+
+	a .git folder is added into the current path where the command was issued. To prepare path and create a repository out of it. Subsequently, git will monitor any changes and activities within the path.
+
+How is the staging area different from working directories? What value do you think it offers?
+
+	It allows logical separation of a set of files and label them appropriately on separate commits.
+ 
+	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	
+	
